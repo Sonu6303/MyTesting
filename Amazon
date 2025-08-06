@@ -4,3 +4,10 @@ To reduce integration issues and detect errors early.
 To increase development productivity by freeing developers from manual tasks.
 To enable continuous testing and continuous delivery.
 To maintain a reliable and repeatable software delivery process.
+
+Key Points about Jenkins:
+Automation: Jenkins automates repetitive tasks such as building code, running tests, and deploying applications.
+Continuous Integration: Developers can integrate code changes frequently, and Jenkins automatically builds and tests these changes to catch bugs early.
+Plugins: Jenkins supports hundreds of plugins to integrate with tools like Git, Maven, Docker, Selenium, Kubernetes, and more.
+Pipeline Support: Jenkins allows creating pipelines to define end-to-end workflows for CI/CD.
+Notifications: Jenkins can notify teams about build status via email, Slack, or other channels.
