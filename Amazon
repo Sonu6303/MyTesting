@@ -11,3 +11,14 @@ Continuous Integration: Developers can integrate code changes frequently, and Je
 Plugins: Jenkins supports hundreds of plugins to integrate with tools like Git, Maven, Docker, Selenium, Kubernetes, and more.
 Pipeline Support: Jenkins allows creating pipelines to define end-to-end workflows for CI/CD.
 Notifications: Jenkins can notify teams about build status via email, Slack, or other channels.
+
+
+Key Points about Jenkins:
+Automation: Jenkins automates repetitive tasks such as building code, running tests, and deploying applications.
+Continuous Integration: Developers can integrate code changes frequently, and Jenkins automatically builds and tests these changes to catch bugs early.
+Plugins: Jenkins supports hundreds of plugins to integrate with tools like Git, Maven, Docker, Selenium, Kubernetes, and more.
+Pipeline Support: Jenkins allows creating pipelines to define end-to-end workflows for CI/CD.
+Notifications: Jenkins can notify teams about build status via email, Slack, or other channels.
+
+
+humanism exist:
